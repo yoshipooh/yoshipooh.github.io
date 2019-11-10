@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="iSara" content="iSara">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/stylesheet.css">
+  <link rel="stylesheet" href="css/responsive.css">
+  <title>iSara</title>
+</head>
+
+<body>
+  <header>
+    <div class="header-inner">
+      <h1 class="logo">TEST.1</h1>
+      <nav class="header-list">
+        <ul class="flex">
+          <li>ABOUT</li>
+          <li>MEMBER</li>
+          <li>COURSE</li>
+          <li>CONTACT</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <img class="top-image" src="img/top.jpg" alt="top-image">
+
+  <div class="main-inner flex">
+    <div class="left-inner">
+      <div class="about">
+        <div class="about-title">ABOUT</div>
+        <div class="about-contents flex">
+          <div class="about-content left">
+            <img class="about-photo" src="img/about1.jpg" alt="about1">
+            <p>テストテストテストテストテストテストテストテストテストテストテストテストテスト</p>
+          </div><!-- /.abount-content -->
+          <div class="about-content right">
+            <img class="about-photo" src="img/about2.jpg" alt="about2">
+            <p>テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト</p>
+          </div><!-- /.abount-content -->
+        </div><!-- /.about-contents -->
+      </div><!-- /.about -->
+
+      <div class="news">
+        <div class="news-title">NEWS</div>
+        <div class="news-contents">
+          <div class="news-content flex">
+            <span class="news-date">2025年3月20日</span>
+            <span class="news-text">テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト</span>
+          </div>
+          <div class="news-content flex">
+            <span class="news-date">2025年3月20日</span>
+            <span class="news-text">テストテストテストテストテストテストテストテストテストテストテスト</span>
+          </div>
+          <div class="news-content flex">
+            <span class="news-date">2025年3月20日</span>
+            <span class="news-text">テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト</span>
+          </div>
+        </div><!-- /.news-contents -->
+      </div><!-- /.news -->
+
+      <div class="btn-ichiran">
+        <span class="btn">一覧を見る</span>
+      </div>
+    </div><!-- /.left-inner -->
+
+    <div class="side-inner">
+      <div class="side-images">
+      <img class="side-image" src="img/side1.jpg" alt="photo1">
+      <img class="side-image" src="img/side2.jpg" alt="photo2">
+      <img class="side-image" src="img/side3.jpg" alt="photo3">
+      </div>
+      <div class="category">
+        <div class="subtitle">CATEGORY</div>
+          <ul class="category-list">
+            <li>・ カテゴリー1</li>
+            <li>・ カテゴリー2</li>
+            <li>・ カテゴリー3</li>
+          </ul>
+      </div> <!-- /.category -->
+    </div><!-- /.side-inner -->
+
+  </div><!-- /.main-inner -->
+
+  <footer>
+    <p>Copyright ©︎ iSara All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+
