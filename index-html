@@ -33,11 +33,11 @@
         <div class="about-title">ABOUT</div>
         <div class="about-contents flex">
           <div class="about-content left">
-            <img class="about-photo" src="img/about1.jpg" alt="about1">
+            <img class="about-photo" src="about1.jpg" alt="about1">
             <p>テストテストテストテストテストテストテストテストテストテストテストテストテスト</p>
           </div><!-- /.abount-content -->
           <div class="about-content right">
-            <img class="about-photo" src="img/about2.jpg" alt="about2">
+            <img class="about-photo" src="about2.jpg" alt="about2">
             <p>テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト</p>
           </div><!-- /.abount-content -->
         </div><!-- /.about-contents -->
@@ -68,9 +68,9 @@
 
     <div class="side-inner">
       <div class="side-images">
-      <img class="side-image" src="img/side1.jpg" alt="photo1">
-      <img class="side-image" src="img/side2.jpg" alt="photo2">
-      <img class="side-image" src="img/side3.jpg" alt="photo3">
+      <img class="side-image" src="side1.jpg" alt="photo1">
+      <img class="side-image" src="side2.jpg" alt="photo2">
+      <img class="side-image" src="side3.jpg" alt="photo3">
       </div>
       <div class="category">
         <div class="subtitle">CATEGORY</div>
